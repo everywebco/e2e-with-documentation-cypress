@@ -1,0 +1,23 @@
+{
+  "name": "e2e-with-documentation-cypress",
+  "version": "1.0.0",
+  "description": "Example of E2E tests with business documentation build in Cypress and Gatsby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everywebco/e2e-with-documentation-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everywebco/e2e-with-documentation-cypress/issues"
+  },
+  "homepage": "https://github.com/everywebco/e2e-with-documentation-cypress#readme",
+  "dependencies": {
+    "@everywebco/cypress-image-snapshot": "github:everywebco/cypress-image-snapshot",
+    "cypress": "^12.5.0"
+  }
+}
