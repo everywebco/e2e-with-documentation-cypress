@@ -18,6 +18,6 @@
   "homepage": "https://github.com/everywebco/e2e-with-documentation-cypress#readme",
   "dependencies": {
     "@everywebco/cypress-image-snapshot": "github:everywebco/cypress-image-snapshot",
-    "cypress": "^12.8.1"
+    "cypress": "^12.13.0"
   }
 }
